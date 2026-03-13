@@ -1,0 +1,31 @@
+{
+  "name": "personal-profile-backend-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manohars1995/personal-profile-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Manohars1995/personal-profile-backend/issues"
+  },
+  "homepage": "https://github.com/Manohars1995/personal-profile-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.3.1",
+    "helmet": "^8.1.0",
+    "mongoose": "^9.3.0",
+    "morgan": "^1.10.1",
+    "winston": "^3.19.0"
+  }
+}
